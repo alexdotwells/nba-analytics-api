@@ -1,0 +1,10 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": false,
+    "name": "NBA Analytics",
+    "repo": "alexdotwells/nba-analytics-api",
+    "splitSpec": false,
+    "samples": true,
+    "installSwaggerUI": true
+  }
+}
